@@ -1,0 +1,5 @@
+a= int (input ())
+h= str (a//3600)
+m= str ((a//60)%60)
+s= str (a%60)
+print (h+ ':'+m+':'+s)
