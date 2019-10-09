@@ -1,0 +1,5 @@
+name = input('Enter your name: ')
+age = input ("Enter your age: ")
+location = input('Enter your city: ')
+profession = input('Enter your profession: ')
+print (' My name is' , name , " I am" , age , 'I live in' , location , ' and I am' , profession)
